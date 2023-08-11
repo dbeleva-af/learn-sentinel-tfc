@@ -7,3 +7,5 @@ HashiCorp Learn.
 
 This repository contains the EC2 instance configuration used to generate
 mock data and test an example Sentinel policy.
+
+This is policy repo.
